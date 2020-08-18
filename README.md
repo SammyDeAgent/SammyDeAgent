@@ -1,5 +1,11 @@
-
-<h1 align='center'><i>Hello there.</i></h1>
+<div align='center'>
+  <img align="center" src="https://raw.githubusercontent.com/SammyDeAgent/SammyDeAgent/master/src/cyto_banner.png">
+</div>
+<h1 align='center'><i>Hello there. General Kenobi</i></h1><br>
+<div align='center'>
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=SammyDeAgent&show_icons=true&theme=chartreuse-dark"/>
+  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyDeAgent&layout=compact&theme=chartreuse-dark"/>
+</div>
 <!--
 **SammyDeAgent/SammyDeAgent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
