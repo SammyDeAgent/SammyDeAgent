@@ -38,7 +38,7 @@
 
 </div>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SammyDeAgent&show_icons=true&theme=chartreuse-dark"><p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyDeAgent&layout=compact&show_icons=true&theme=chartreuse-dark"><p>
+<!--   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammyDeAgent&layout=compact&show_icons=true&theme=chartreuse-dark"><p> -->
 </div>
 
 <!--
