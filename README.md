@@ -31,7 +31,7 @@
     <p align ='center'>
     Science is the embodiment of the universe,<br>
     with chemistry being the building base of science;<br>
-    physic being the fundamental rule of science;<br>
+    physics being the fundamental rule of science;<br>
     and biology being the product of science and emergence, Life itself.<br>
     </p>
 </div>
