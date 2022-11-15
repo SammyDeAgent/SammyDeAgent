@@ -23,7 +23,7 @@
 <div text='justify'>
   <p align ='center'>
     Hello there, I'm Sammy, part time gamer, part time programmer and full time procrastinator.💻 <br><br>
-    Currently studying Computer Science in UTAR, Malaysia. Created the Cytokine Community that brings<br>
+    Graduated from Computer Science in UTAR, Malaysia. Created the Cytokine Community that brings<br>
     gamers all over the world into a single hub, expanding the boundary of gaming to infinity.<br><br>
     Abstract geometry and art creates the best minimalistic approach to a design choice, with flat<br>
     design being the main inspiration behind my works. <i>Simple yet elegant.<i>
